@@ -1,4 +1,4 @@
----
+#Hello---
 description: See the MetaMask Ethereum provider API reference.
 ---
 
